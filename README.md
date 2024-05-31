@@ -10,7 +10,7 @@ A VS2022 project file that documents my learning of the basic grammer of C++
 
 文件由多个cpp文件和hpp文件组成 其中note.cpp是记录主要笔记文件，note.cpp由上到下记录了对应课程的笔记(从运算符'++'重载开始)
 
-一段语法笔记注释对应一段代码 想运行莫代码时 鼠标划住对应代码 按ctrl+k+u 将代码注释取消 即可运行 完成后按ctrl+k+c注释再该代码即可
+一段语法笔记注释对应一段代码 想运行莫代码时 鼠标划住对应代码 按ctrl+k+u 将代码注释取消 即可运行 完成后按ctrl+k+c注释再该代码即可(VS2022快捷键)
 
 note.cpp的头文件在001.hpp中
 
@@ -24,7 +24,7 @@ The files are written in VS2022.
 
 The files consist of multiple `.cpp` and `.hpp` files. Among them, `note.cpp` is the main note file, which records notes corresponding to each course from top to bottom (starting with operator `++` overloading).
 
-A segment of syntax note comments corresponds to a segment of code. To run a certain code, highlight the corresponding code and press `Ctrl+K+U` to uncomment the code. After running, press `Ctrl+K+C` to comment the code again.
+A segment of syntax note comments corresponds to a segment of code. To run a certain code, highlight the corresponding code and press `Ctrl+K+U` to uncomment the code. After running, press `Ctrl+K+C` to comment the code again.(shortcut keys in VS2022)
 
 The header file for `note.cpp` is in `001.hpp`.
 
