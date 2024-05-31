@@ -1,6 +1,6 @@
 # cpp-basic-grammar-learning-notes
 一个记录了我学习C++基础语法的VS2022项目文件 
-A VS2022 project file that documents my learning of the basic grammer of C++
+    A VS2022 project file that documents my learning of the basic grammer of C++
 # Chinese
 ## 文件配套b站黑马程序员C++课程 序号对应课程序号
 视频链接<https://www.bilibili.com/video/BV1et411b73Z/>
